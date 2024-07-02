@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "MoviRNG",
+    "main":"expo-router/entry",
     "slug": "MoviRNG",
     "version": "1.0.0",
     "orientation": "portrait",
